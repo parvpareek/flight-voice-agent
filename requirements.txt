@@ -1,0 +1,8 @@
+streamlit
+SpeechRecognition
+PyAudio # May require separate installation steps depending on OS
+pyttsx3
+google-generativeai
+python-dotenv
+pandas # Useful for displaying data with Streamlit
+python-dateutil
